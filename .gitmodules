@@ -7,3 +7,6 @@
 [submodule "dtkwidget"]
 	path = dtkwidget
 	url = https://github.com/linuxdeepin/dtkwidget
+[submodule "qt5integration"]
+	path = qt5integration
+	url = https://github.com/linuxdeepin/qt5integration
