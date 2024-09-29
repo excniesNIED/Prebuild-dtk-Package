@@ -134,7 +134,7 @@ git clone -b [tags] https://github.com/linuxdeepin/qt5integration.git
 cd qt5integration
 mkdir build && cd build
 sudo apt build-dep ../
-qmake ..
+cmake ..
 make
 ```
 
